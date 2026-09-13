@@ -1,0 +1,21 @@
+AniMate Waifu — Proprietary License Notice
+Copyright (c) 2026 channing. All rights reserved.
+
+This repository hosts documentation, media and issue tracking for the
+AniMate Waifu application. The application binary itself is proprietary
+software and is distributed only through:
+
+  - Microsoft Store (Windows)
+  - https://getanimate.app/download (Windows direct installer / macOS)
+
+You may not redistribute, reverse-engineer or create derivative works of
+the application binary beyond what applicable law allows.
+
+Documentation and text in this repository (excluding the application icon
+and screenshots) may be quoted with attribution and a link back to this
+repository.
+
+"VRM" is an open avatar file format. "VRoid" is a trademark of Pixiv Inc.
+This project is not affiliated with Pixiv, Valve, or any character IP
+holder. Users are responsible for holding the rights to the models they
+import and share.
