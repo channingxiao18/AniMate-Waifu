@@ -162,13 +162,6 @@ AniMate Waifu 把一个 3D 二次元角色放上你的 Windows 或 Mac 桌面—
 
 各有各的好：想读源码、装 Mod 选 MateEngine；想要官方授权角色选 Desktop Mate。AniMate Waifu 为**你自己的角色 + 真实对话**而生——AI 跑在云端，不需要下载大模型，也没有本地推理在后台占资源。完整对比：[AniMate Waifu vs Desktop Mate](https://getanimate.app/desktop-mate-alternative)。
 
-## 诚实边界
-
-我们宁愿少一次安装，也不夸大一句：
-
-- **不支持 PMX / FBX 原生导入** —— 请先转换为 VRM（[教程](https://getanimate.app/guides/import-vrm-model)）
-- **对话需联网** —— 没有离线本地大模型模式，也没有屏幕视觉与主动搭话
-
 ## 常见问题
 
 **免费吗？** 免费，有边界：两个内置角色、完整互动、AI 对话、桌面跳舞都不限时免费。Pro 为一次买断。

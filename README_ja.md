@@ -162,13 +162,6 @@ AniMate Waifu は、3D アニメのキャラクターを Windows / Mac のデス
 
 それぞれ得意分野があります：ソースを読んで Mod したいなら MateEngine、公式ライセンスキャラなら Desktop Mate。AniMate Waifu は**自分のキャラクターと本物の会話**のために作られています——AI はクラウドで動くため、大きなモデルをダウンロードする必要も、ローカルで推論を走らせる必要もありません。詳細比較：[AniMate Waifu vs Desktop Mate](https://getanimate.app/desktop-mate-alternative)
 
-## 正直な境界線
-
-誇大広告よりインストールを諦める方がいい：
-
-- **PMX / FBX のネイティブインポートは非対応** — 先に VRM へ変換を（[ガイド](https://getanimate.app/guides/import-vrm-model)）
-- **チャットには要インターネット** — オフラインのローカル LLM モードはなく、画面認識や自発的な話しかけもありません
-
 ## FAQ
 
 **無料ですか？** 無料です（制限あり）：内蔵 2 体、フルインタラクション、AI チャット、デスクトップダンスは時間制限なしで無料。Pro は買い切りです。

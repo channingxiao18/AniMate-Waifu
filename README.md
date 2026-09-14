@@ -162,13 +162,6 @@ What "conversation" actually means here — this is the part a feature list usua
 
 Each product is good at something: MateEngine is the one to pick if you want to read and mod the source; Desktop Mate is the one for officially licensed characters. AniMate Waifu is built for **your own characters with real conversation** — and because the AI runs in the cloud, there's no large model to download and no local inference to run. Full comparison: [AniMate Waifu vs Desktop Mate](https://getanimate.app/desktop-mate-alternative).
 
-## Honest boundaries
-
-We'd rather lose the install than the review:
-
-- **No native PMX / FBX import** — convert to VRM first ([guide](https://getanimate.app/guides/import-vrm-model))
-- **Chat needs internet** — there is no offline local LLM mode, and no screen vision or proactive messages
-
 ## FAQ
 
 **Is it free?** Yes, with limits: two built-in characters, the full interaction set, AI chat and desktop dancing cost nothing, with no time limit. Pro is a one-time purchase.
