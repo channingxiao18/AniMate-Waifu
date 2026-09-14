@@ -92,6 +92,7 @@ It is not a wallpaper, not a browser chatbot tab. The character lives on your de
 - Chat requires an internet connection and a supported AI/speech service
 
 ### Performance & trust
+- **Light to run** — the AI lives in the cloud, so there's no large model to download and no local inference to keep running
 - No administrator rights, no drivers, no protected system file changes
 - No bundled third-party software
 - Distributed only through the Microsoft Store (signed) and the official direct installer with a published SHA256 checksum
@@ -159,7 +160,7 @@ What "conversation" actually means here — this is the part a feature list usua
 - **Voice customization** — a TTS voice per character, so two characters never sound alike
 - **The body follows the reply** — lip movement, expressions and motion are driven by the conversation in real time, not by a separate looping animation
 
-Each product is good at something: MateEngine is the one to pick if you want to read and mod the source; Desktop Mate is the one for officially licensed characters; if you want a local LLM with screen vision, proactive chat and voice cloning, AI Desktop Pet goes deeper on AI than we do. AniMate Waifu is built for **your own characters with real conversation**. Full comparison: [AniMate Waifu vs Desktop Mate](https://getanimate.app/desktop-mate-alternative).
+Each product is good at something: MateEngine is the one to pick if you want to read and mod the source; Desktop Mate is the one for officially licensed characters. AniMate Waifu is built for **your own characters with real conversation** — and because the AI runs in the cloud, there's no large model to download and no local inference to run. Full comparison: [AniMate Waifu vs Desktop Mate](https://getanimate.app/desktop-mate-alternative).
 
 ## Honest boundaries
 

@@ -92,6 +92,7 @@ AniMate Waifu は、3D アニメのキャラクターを Windows / Mac のデス
 - チャットにはインターネット接続と、対応する AI / 音声サービスの設定が必要
 
 ### パフォーマンスと信頼
+- **軽量** — AI はクラウドで動作。大型モデルのダウンロードも、ローカルでの推論実行も不要です
 - 管理者権限不要、ドライバ不インストール、保護されたシステムファイルの変更なし
 - サードパーティ製ソフトの同梱なし
 - 配布は Microsoft Store（署名付き）と公式サイトのダイレクトインストーラー（SHA256 チェックサム公開）のみ
@@ -159,7 +160,7 @@ AniMate Waifu は、3D アニメのキャラクターを Windows / Mac のデス
 - **音色のカスタマイズ** — キャラごとに TTS 音声を設定。2 体が同じ声になることはありません
 - **返答に身体が追従** — リップシンク・表情・モーションが会話によってリアルタイムに駆動され、別ループのアニメーションではありません
 
-それぞれ得意分野があります：ソースを読んで Mod したいなら MateEngine、公式ライセンスキャラなら Desktop Mate、ローカル LLM + 画面認識 + 自発的な話しかけ + 声のクローンなら AI Desktop Pet が AI 面で私たちより踏み込んでいます。AniMate Waifu は**自分のキャラクターと本物の会話**のために作られています。詳細比較：[AniMate Waifu vs Desktop Mate](https://getanimate.app/desktop-mate-alternative)
+それぞれ得意分野があります：ソースを読んで Mod したいなら MateEngine、公式ライセンスキャラなら Desktop Mate。AniMate Waifu は**自分のキャラクターと本物の会話**のために作られています——AI はクラウドで動くため、大きなモデルをダウンロードする必要も、ローカルで推論を走らせる必要もありません。詳細比較：[AniMate Waifu vs Desktop Mate](https://getanimate.app/desktop-mate-alternative)
 
 ## 正直な境界線
 

@@ -92,6 +92,7 @@ AniMate Waifu 把一个 3D 二次元角色放上你的 Windows 或 Mac 桌面—
 - 对话需要联网，并配置受支持的 AI / 语音服务
 
 ### 性能与信任
+- **轻量** —— AI 在云端运行，无需下载大模型，也没有本地推理在后台常驻
 - 无需管理员权限，不装驱动，不修改受保护的系统文件
 - 不捆绑任何第三方软件
 - 仅通过微软商店（签名）与官网直装包（附 SHA256 校验值）分发
@@ -159,7 +160,7 @@ AniMate Waifu 把一个 3D 二次元角色放上你的 Windows 或 Mac 桌面—
 - **音色定制** —— 每个角色一个 TTS 音色，两个角色不会听起来像同一个人
 - **身体跟随回答** —— 口型、表情、动作由对话实时驱动，不是另跑一条循环动画
 
-各有各的好：想读源码、装 Mod 选 MateEngine；想要官方授权角色选 Desktop Mate；想要本地大模型 + 屏幕视觉 + 主动搭话 + 声音克隆，AI Desktop Pet 在 AI 上比我们走得更深。AniMate Waifu 为**你自己的角色 + 真实对话**而生。完整对比：[AniMate Waifu vs Desktop Mate](https://getanimate.app/desktop-mate-alternative)。
+各有各的好：想读源码、装 Mod 选 MateEngine；想要官方授权角色选 Desktop Mate。AniMate Waifu 为**你自己的角色 + 真实对话**而生——AI 跑在云端，不需要下载大模型，也没有本地推理在后台占资源。完整对比：[AniMate Waifu vs Desktop Mate](https://getanimate.app/desktop-mate-alternative)。
 
 ## 诚实边界
 
