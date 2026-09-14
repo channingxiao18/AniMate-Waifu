@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/hero-en.webp" alt="AniMate Waifu — bring your anime character to life as a 3D VRM desktop pet on Windows and macOS" width="100%" />
-
 <img src="assets/app-icon-512.png" width="112" alt="AniMate Waifu logo" />
 
 # AniMate Waifu
+
+<img src="assets/hero-en.webp" alt="AniMate Waifu — bring your anime character to life as a 3D VRM desktop pet on Windows and macOS" width="100%" />
 
 **Bring your character to life on your desktop — a 3D anime desktop pet that imports your own VRM 0.x and 1.0 avatars, talks with you by text or voice, and dances to your music.**
 

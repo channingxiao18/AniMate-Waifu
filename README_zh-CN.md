@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/hero-zh-CN.webp" alt="萌灵桌宠 AniMate Waifu —— 把本命角色变成专属桌宠，Windows 与 macOS 3D 二次元桌宠" width="100%" />
-
 <img src="assets/app-icon-512.png" width="112" alt="AniMate Waifu logo" />
 
 # AniMate Waifu
+
+<img src="assets/hero-zh-CN.webp" alt="萌灵桌宠 AniMate Waifu —— 把本命角色变成专属桌宠，Windows 与 macOS 3D 二次元桌宠" width="100%" />
 
 **让你的角色在桌面上活起来——把你自己导入的 VRM 0.x / 1.0 形象放上桌面，用文字或语音和它说话，它一边回应一边动着身体，还会跟着你的音乐跳舞。**
 
