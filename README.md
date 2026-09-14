@@ -4,7 +4,7 @@
 
 # AniMate Waifu
 
-**A 3D anime desktop pet that imports your own VRM 0.x and 1.0 avatars — dances to your music, and chats with you by text or voice.**
+**Bring your character to life on your desktop — a 3D anime desktop pet that imports your own VRM 0.x and 1.0 avatars, talks with you by text or voice, and dances to your music.**
 
 *What if the character you love could really be by your side?*
 
