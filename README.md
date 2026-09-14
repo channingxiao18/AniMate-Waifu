@@ -10,7 +10,7 @@
 
 Free to start on Windows & macOS · One-time purchase, no subscription
 
-[Official website](https://getanimate.app/) · [Download](https://getanimate.app/download) · [Microsoft Store](https://apps.microsoft.com/detail/9PHRL2T3F0BS) · [Pricing](https://getanimate.app/buy)
+[Official website](https://getanimate.app/) · [Download](https://getanimate.app/download) · [Microsoft Store](https://apps.microsoft.com/detail/9PHRL2T3F0BS)
 
 **English** · [简体中文](README_zh-CN.md) · [日本語](README_ja.md)
 

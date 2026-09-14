@@ -10,7 +10,7 @@
 
 Windows & macOS で無料で開始 · 買い切り、サブスクなし
 
-[公式サイト](https://getanimate.app/) · [ダウンロード](https://getanimate.app/download) · [Microsoft Store](https://apps.microsoft.com/detail/9PHRL2T3F0BS) · [価格](https://getanimate.app/buy)
+[公式サイト](https://getanimate.app/) · [ダウンロード](https://getanimate.app/download) · [Microsoft Store](https://apps.microsoft.com/detail/9PHRL2T3F0BS)
 
 [English](README.md) · [简体中文](README_zh-CN.md) · **日本語**
 

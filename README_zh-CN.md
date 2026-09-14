@@ -10,7 +10,7 @@
 
 Windows 与 macOS 免费开始 · 一次买断，无订阅
 
-[官网](https://getanimate.app/) · [下载](https://getanimate.app/download) · [微软商店](https://apps.microsoft.com/detail/9PHRL2T3F0BS) · [定价](https://getanimate.app/buy)
+[官网](https://getanimate.app/) · [下载](https://getanimate.app/download) · [微软商店](https://apps.microsoft.com/detail/9PHRL2T3F0BS)
 
 [English](README.md) · **简体中文** · [日本語](README_ja.md)
 
