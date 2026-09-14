@@ -32,7 +32,7 @@ AniMate Waifu は、3D アニメのキャラクターを Windows / Mac のデス
 - **隅のチャットボットではなく、AI コンパニオン** — AI のテキスト・音声チャット、全二重と割り込みに対応、**記憶あり**。話しながら身体が動く
 - **1 つのダンスを全キャラで** — VRMA ダンスファイルをインポートし、ライブラリ内のどのキャラにも適用可能
 - **設定パネルではなくライブラリ** — ワークショップでキャラ・モーション・ダンス・ステージを 3D プレビュー付きで一元管理
-- **Windows と Mac で同じデスクトップペット** — 機能は同一、配布方法だけが異なります
+- **Windows と Mac の両方で使えます** — 配布方法が異なります（Microsoft Store / 公式サイト）
 - **買い切り** — US$9.90 の一回払いでフル機能解放。サブスクなし、14 日間返金
 
 ## こんな人に
@@ -97,7 +97,6 @@ AniMate Waifu は、3D アニメのキャラクターを Windows / Mac のデス
 ### Windows / macOS のデスクトップペット
 - Windows 10/11（64 ビット）— Microsoft Store またはダイレクトインストーラー
 - macOS 12 以降（Apple Silicon）— 公式サイトからダウンロード
-- 両方で同じ機能セット
 
 ## 無料版と Pro
 
@@ -131,7 +130,7 @@ AniMate Waifu は、3D アニメのキャラクターを Windows / Mac のデス
 
 | | AniMate Waifu | MateEngine | Desktop Mate |
 | --- | --- | --- | --- |
-| プラットフォーム | Windows 10/11 · macOS（Apple Silicon）、機能同一 | Windows のみ | Windows 10/11 · macOS beta |
+| プラットフォーム | Windows 10/11 · macOS（Apple Silicon） | Windows のみ | Windows 10/11 · macOS beta |
 | モデル形式 | **VRM 0.x + 1.0** | VRM 0.x（1.0 は「近日対応」） | 公式ライセンスキャラ；カスタム VRM は開発中 |
 | キャラクター | 内蔵 2 体 + **自分の VRM** | 自分の VRM | 公式ライセンス DLC（キャラごと） |
 | テキスト会話 | ✅ | ✅ 小型ローカルモデル | — ボイスラインのみ |

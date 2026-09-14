@@ -32,7 +32,7 @@ It is not a wallpaper, not a browser chatbot tab. The character lives on your de
 - **An AI companion, not a chatbot tab** — text & voice conversation with custom TTS voices, while the character's body moves as it speaks
 - **One dance, any character** — import VRMA dance files and reuse them across your whole library
 - **A library, not a settings panel** — the Workshop manages characters, motions, dances and stages with 3D previews
-- **The same desktop pet on Windows and Mac** — same features on both, only the delivery differs
+- **Available on Windows and Mac** — the two use different delivery channels (Microsoft Store / direct download)
 - **One-time purchase** — US$9.90 once unlocks everything. No subscription, 14-day refund
 
 ## Made for
@@ -97,7 +97,6 @@ It is not a wallpaper, not a browser chatbot tab. The character lives on your de
 ### Desktop pet on Windows and macOS
 - Windows 10/11 (64-bit) — Microsoft Store or direct installer
 - macOS 12 or later on Apple Silicon — direct download
-- Same feature set on both
 
 ## Free vs Pro
 
@@ -131,7 +130,7 @@ First-party row; competitor facts checked against public sources (Aug 2026). `�
 
 | | AniMate Waifu | MateEngine | Desktop Mate |
 | --- | --- | --- | --- |
-| Platforms | Windows 10/11 · macOS (Apple Silicon), same features | Windows only | Windows 10/11 · macOS beta |
+| Platforms | Windows 10/11 · macOS (Apple Silicon) | Windows only | Windows 10/11 · macOS beta |
 | Model format | **VRM 0.x + 1.0** | VRM 0.x (1.0 "coming soon") | Licensed characters; custom VRM in progress |
 | Characters | 2 built-in + **your own VRM** | Your own VRM | Officially licensed DLC, per character |
 | Chat — text | ✅ | ✅ local model | — voice lines only |

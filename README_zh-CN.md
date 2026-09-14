@@ -32,7 +32,7 @@ AniMate Waifu 把一个 3D 二次元角色放上你的 Windows 或 Mac 桌面—
 - **AI 陪伴，而不是角落里的聊天框** —— AI 文字 + 语音对话，支持全双工与打断，**有记忆**，说话时身体跟着动
 - **一支舞，全角色通用** —— 导入 VRMA 舞蹈文件，库里哪个角色都能跳
 - **是资产库，不是设置面板** —— 工坊统一管理角色、动作、舞蹈、舞台，带 3D 预览
-- **Windows 和 Mac 上同一个桌宠** —— 功能一致，仅分发方式不同
+- **Windows 和 Mac 都能用** —— 两端分发方式不同（微软商店 / 官网直装）
 - **一次买断** —— US$9.90 解锁全部，无订阅，14 天退款
 
 ## 适合谁
@@ -97,7 +97,6 @@ AniMate Waifu 把一个 3D 二次元角色放上你的 Windows 或 Mac 桌面—
 ### Windows 与 macOS 桌宠
 - Windows 10/11（64 位）—— 微软商店或官网直装
 - macOS 12 或更高版本（Apple Silicon）—— 官网直装
-- 两端功能完全一致
 
 ## 免费版与 Pro
 
@@ -131,7 +130,7 @@ AniMate Waifu 把一个 3D 二次元角色放上你的 Windows 或 Mac 桌面—
 
 | | AniMate Waifu | MateEngine | Desktop Mate |
 | --- | --- | --- | --- |
-| 平台 | Windows 10/11 · macOS（Apple Silicon），功能一致 | 仅 Windows | Windows 10/11 · macOS 测试版 |
+| 平台 | Windows 10/11 · macOS（Apple Silicon） | 仅 Windows | Windows 10/11 · macOS 测试版 |
 | 模型格式 | **VRM 0.x + 1.0** | VRM 0.x（1.0 "即将支持"） | 官方授权角色；自定义 VRM 开发中 |
 | 角色 | 2 内置 + **你自己的 VRM** | 你自己的 VRM | 官方授权 DLC，按角色购买 |
 | 文字对话 | ✅ | ✅ 本地小模型 | — 仅角色语音台词 |
