@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/app-icon-512.png" width="112" alt="AniMate Waifu logo" />
+<img src="assets/app-icon-512.webp" width="112" alt="AniMate Waifu logo" />
 
 # AniMate Waifu
 
