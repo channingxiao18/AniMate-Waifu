@@ -90,7 +90,6 @@ It is not a wallpaper, not a browser chatbot tab. The character lives on your de
 - Chat requires an internet connection and a supported AI/speech service
 
 ### Performance & trust
-- Performance mode and chibi mode reduce the load on slower machines (actual cost depends on your model and your hardware)
 - No administrator rights, no drivers, no protected system file changes
 - No bundled third-party software
 - Distributed only through the Microsoft Store (signed) and the official direct installer with a published SHA256 checksum
@@ -167,7 +166,7 @@ We'd rather lose the install than the review:
 
 - **No native PMX / FBX import** — convert to VRM first ([guide](https://getanimate.app/guides/import-vrm-model))
 - **Chat needs internet** — there is no offline local LLM mode, and no screen vision or proactive messages
-- **A 3D model rendered all day costs GPU** — performance mode helps; actual numbers depend on your model and machine
+- **A 3D model rendered all day costs GPU** — actual numbers depend on your model and machine
 
 ## FAQ
 
