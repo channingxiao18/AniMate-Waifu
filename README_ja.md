@@ -6,6 +6,8 @@
 
 **自分の VRM 0.x / 1.0 モデルをデスクトップに。音楽に合わせて踊り、テキストや音声でリアルタイムに話しかけられる 3D アニメ デスクトップペット。**
 
+*好きなキャラクターが、本当にそばにいてくれたら——*
+
 Windows & macOS で無料で開始 · 買い切り、サブスクなし
 
 [公式サイト](https://getanimate.app/) · [ダウンロード](https://getanimate.app/download) · [Microsoft Store](https://apps.microsoft.com/detail/9PHRL2T3F0BS) · [価格](https://getanimate.app/buy)

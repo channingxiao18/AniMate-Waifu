@@ -6,6 +6,8 @@
 
 **把你自己导入的 VRM 0.x / 1.0 角色放上桌面——跟着音乐跳舞，用文字或语音和你实时对话的 3D 二次元桌宠。**
 
+*如果喜欢的角色，真的能陪在你身边呢？*
+
 Windows 与 macOS 免费开始 · 一次买断，无订阅
 
 [官网](https://getanimate.app/) · [下载](https://getanimate.app/download) · [微软商店](https://apps.microsoft.com/detail/9PHRL2T3F0BS) · [定价](https://getanimate.app/buy)

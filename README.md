@@ -6,6 +6,8 @@
 
 **A 3D anime desktop pet that imports your own VRM 0.x and 1.0 avatars — dances to your music, and chats with you by text or voice.**
 
+*What if the character you love could really be by your side?*
+
 Free to start on Windows & macOS · One-time purchase, no subscription
 
 [Official website](https://getanimate.app/) · [Download](https://getanimate.app/download) · [Microsoft Store](https://apps.microsoft.com/detail/9PHRL2T3F0BS) · [Pricing](https://getanimate.app/buy)
