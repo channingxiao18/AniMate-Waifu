@@ -118,7 +118,7 @@ One payment covers the whole library you build — not per character, not per ye
 
 1. **Get AniMate Waifu** — from the [Microsoft Store](https://apps.microsoft.com/detail/9PHRL2T3F0BS) (Windows, recommended) or the [direct installer](https://getanimate.app/download).
 2. **Pick a spot** — put the character wherever you like. It stays there between sessions.
-3. **Bring your favourite** — import a `.vrm` file inside the app. See the [VRM import guide](https://getanimate.app/guides/import-vrm-model), or browse the [free model library](https://getanimate.app/models) if you don't have a model yet.
+3. **Bring your favourite** — import a `.vrm` file inside the app. See the [VRM import guide](https://getanimate.app/guides/import-vrm-model), or browse the [community model library](https://getanimate.app/models) if you don't have a model yet — those models are community-made and each carries its own license.
 
 ## Is it safe?
 
@@ -172,7 +172,7 @@ We'd rather lose the install than the review:
 
 **Which VRM versions work?** Both VRM 0.x and VRM 1.0, including current VRoid Studio exports. PMX and FBX models need to be converted to VRM first.
 
-**Where do I get a model?** Make one in [VRoid Studio](https://vroid.com/studio) (free), or browse the [free model library](https://getanimate.app/models).
+**Where do I get a model?** Make one in [VRoid Studio](https://vroid.com/studio) (free), or browse the [community model library](https://getanimate.app/models) — free community-made models, each under its own license.
 
 **Does the AI chat send my data somewhere?** Chat is cloud-connected and needs internet; your chat history is stored locally on your device.
 

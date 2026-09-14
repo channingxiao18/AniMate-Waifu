@@ -118,7 +118,7 @@ AniMate Waifu は、3D アニメのキャラクターを Windows / Mac のデス
 
 1. **入手** — [Microsoft Store](https://apps.microsoft.com/detail/9PHRL2T3F0BS)（Windows 推奨）または[公式インストーラー](https://getanimate.app/download)。
 2. **場所を決める** — 好きな場所に置けば、次回起動時もそこにいます。
-3. **キャラを連れて帰る** — アプリ内で `.vrm` ファイルをインポート。[VRM インポートガイド](https://getanimate.app/guides/import-vrm-model)参照。モデルをお持ちでなければ[無料モデルライブラリ](https://getanimate.app/models)へ。
+3. **キャラを連れて帰る** — アプリ内で `.vrm` ファイルをインポート。[VRM インポートガイド](https://getanimate.app/guides/import-vrm-model)参照。モデルをお持ちでなければ[コミュニティの無料モデルライブラリ](https://getanimate.app/models)へ。モデルはコミュニティ製で、ライセンスは個別に異なります。
 
 ## 安全ですか？
 
@@ -172,7 +172,7 @@ AniMate Waifu は、3D アニメのキャラクターを Windows / Mac のデス
 
 **対応する VRM バージョンは？** VRM 0.x と VRM 1.0 の両方。最新の VRoid Studio の出力も含みます。PMX / FBX は要先変換です。
 
-**モデルはどこで？** [VRoid Studio](https://vroid.com/studio)（無料）で自分で作るか、[無料モデルライブラリ](https://getanimate.app/models)をどうぞ。
+**モデルはどこで？** [VRoid Studio](https://vroid.com/studio)（無料）で自分で作るか、[コミュニティの無料モデルライブラリ](https://getanimate.app/models)をどうぞ。コミュニティ製のため、ライセンスは各モデルごとに確認してください。
 
 **AI チャットのデータはどこへ？** チャットはクラウド接続でインターネットが必要です。チャット履歴は自分のデバイスにローカル保存されます。
 

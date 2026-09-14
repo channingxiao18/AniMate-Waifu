@@ -118,7 +118,7 @@ AniMate Waifu 把一个 3D 二次元角色放上你的 Windows 或 Mac 桌面—
 
 1. **获取 AniMate Waifu** —— [微软商店](https://apps.microsoft.com/detail/9PHRL2T3F0BS)（Windows 推荐）或[官网直装包](https://getanimate.app/download)。
 2. **选个位置** —— 把角色放到你喜欢的任意位置，重启后还在那儿。
-3. **接它回家** —— 在应用内导入 `.vrm` 文件。参考 [VRM 导入指南](https://getanimate.app/guides/import-vrm-model)；还没有模型可以逛逛[免费模型库](https://getanimate.app/models)。
+3. **接它回家** —— 在应用内导入 `.vrm` 文件。参考 [VRM 导入指南](https://getanimate.app/guides/import-vrm-model)；还没有模型可以去逛逛[社区免费模型库](https://getanimate.app/models)，模型由社区制作、各自授权，使用前请确认许可。
 
 ## 安全吗？
 
@@ -172,7 +172,7 @@ AniMate Waifu 把一个 3D 二次元角色放上你的 Windows 或 Mac 桌面—
 
 **支持哪些 VRM 版本？** VRM 0.x 与 VRM 1.0 都支持，含 VRoid Studio 当前导出的版本。PMX / FBX 需先转换为 VRM。
 
-**模型从哪来？** 用 [VRoid Studio](https://vroid.com/studio) 自己做（免费），或逛逛[免费模型库](https://getanimate.app/models)。
+**模型从哪来？** 用 [VRoid Studio](https://vroid.com/studio) 自己做（免费），或逛逛[社区免费模型库](https://getanimate.app/models)——模型由社区制作，许可能否商用、能否再分发各不相同。
 
 **AI 对话会把数据传到哪里？** 对话依赖云端、需要联网；聊天记录只保存在你自己的设备上。
 
