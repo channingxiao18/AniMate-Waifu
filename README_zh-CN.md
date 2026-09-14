@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/app-icon-512.png" width="128" alt="AniMate Waifu logo" />
+<img src="assets/hero-zh-CN.webp" alt="萌灵桌宠 AniMate Waifu —— 把本命角色变成专属桌宠，Windows 与 macOS 3D 二次元桌宠" width="100%" />
+
+<img src="assets/app-icon-512.png" width="112" alt="AniMate Waifu logo" />
 
 # AniMate Waifu
 

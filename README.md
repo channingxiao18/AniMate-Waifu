@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/app-icon-512.png" width="128" alt="AniMate Waifu logo" />
+<img src="assets/hero-en.webp" alt="AniMate Waifu — bring your anime character to life as a 3D VRM desktop pet on Windows and macOS" width="100%" />
+
+<img src="assets/app-icon-512.png" width="112" alt="AniMate Waifu logo" />
 
 # AniMate Waifu
 

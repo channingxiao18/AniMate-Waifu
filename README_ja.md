@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/app-icon-512.png" width="128" alt="AniMate Waifu logo" />
+<img src="assets/hero-ja.webp" alt="AniMate Waifu —— 推しが画面から飛び出してきた、息づかいを感じる Windows / macOS の 3D デスクトップコンパニオン" width="100%" />
+
+<img src="assets/app-icon-512.png" width="112" alt="AniMate Waifu logo" />
 
 # AniMate Waifu
 
