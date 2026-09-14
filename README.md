@@ -28,16 +28,23 @@ It is not a wallpaper, not a browser chatbot tab. The character lives on your de
 
 ## Highlights
 
-- **Your own character, not a DLC lineup** — import any VRM model: one you built in VRoid Studio, commissioned, or downloaded
-- **Real conversation, not preset lines** — AI text & voice chat with custom TTS voices per character
+- **Bring your own anime character to life** — import any VRM model: one you built in VRoid Studio, commissioned, or downloaded
+- **An AI companion, not a chatbot tab** — text & voice conversation with custom TTS voices, while the character's body moves as it speaks
 - **One dance, any character** — import VRMA dance files and reuse them across your whole library
 - **A library, not a settings panel** — the Workshop manages characters, motions, dances and stages with 3D previews
-- **The same app on Windows and Mac** — same features on both, only the delivery differs
+- **The same desktop pet on Windows and Mac** — same features on both, only the delivery differs
 - **One-time purchase** — US$9.90 once unlocks everything. No subscription, 14-day refund
+
+## Made for
+
+- **"I want my favourite anime character on my desktop."** — import the VRM model of the character you love and keep them beside you while you work
+- **"I want an AI companion I can actually talk to."** — real conversation by text or voice, with the character responding in body, expression and voice
+- **"I want to bring my own VRoid character to life."** — everything you make in VRoid Studio is a first-class citizen here
+- **"I draw, commission, or collect VRM models."** — your whole character library in one place, reusable across dances and stages
 
 ## Features
 
-### Characters & ownership
+### Your character: VRM import & VRoid Studio
 - **VRM 0.x and VRM 1.0 import** (Pro), including what current VRoid Studio exports — MToon and MToon10 shaders
 - Built-in workflow for VRoid Studio models
 - Character library: every model you import stays organized in one place
@@ -71,7 +78,7 @@ It is not a wallpaper, not a browser chatbot tab. The character lives on your de
 - 3D previews with rotate and zoom
 - Stage import and switching (Pro) — image and video backgrounds, so the character performs inside a scene
 
-### AI conversation
+### AI companion & conversation
 - Text and voice chat that drives the character's body — it's the same character talking, not a chatbot in a corner
 - Custom TTS voices per character — hear a voice you recognise
 - Lip movement, expressions and subtitles follow the conversation
@@ -85,7 +92,7 @@ It is not a wallpaper, not a browser chatbot tab. The character lives on your de
 - No bundled third-party software
 - Distributed only through the Microsoft Store (signed) and the official direct installer with a published SHA256 checksum
 
-### Platforms
+### Desktop pet on Windows and macOS
 - Windows 10/11 (64-bit) — Microsoft Store or direct installer
 - macOS 12 or later on Apple Silicon — direct download
 - Same feature set on both
