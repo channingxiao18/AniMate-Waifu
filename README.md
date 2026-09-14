@@ -80,6 +80,9 @@ It is not a wallpaper, not a browser chatbot tab. The character lives on your de
 
 ### AI companion & conversation
 - Text and voice chat that drives the character's body — it's the same character talking, not a chatbot in a corner
+- Full-duplex voice: talk while the character is talking, and interrupt it mid-sentence
+- Memory — the character remembers what you've talked about, so conversations continue instead of resetting
+- Custom lore / world book — attach your own setting, backstory and character knowledge
 - Custom TTS voices per character — hear a voice you recognise
 - Lip movement, expressions and subtitles follow the conversation
 - Persona and companionship style configured per character
@@ -125,29 +128,45 @@ We distribute only through the Microsoft Store and the direct installer on the o
 
 ## How it compares
 
-First-party row; facts checked against public sources (Aug 2026):
+First-party row; competitor facts checked against public sources (Aug 2026). `—` means we found no public documentation of that capability, not that it's impossible.
 
 | | AniMate Waifu | MateEngine | Desktop Mate |
 | --- | --- | --- | --- |
 | Platforms | Windows 10/11 · macOS (Apple Silicon), same features | Windows only | Windows 10/11 · macOS beta |
 | Model format | **VRM 0.x + 1.0** | VRM 0.x (1.0 "coming soon") | Licensed characters; custom VRM in progress |
 | Characters | 2 built-in + **your own VRM** | Your own VRM | Officially licensed DLC, per character |
-| Conversation | **AI text + voice, custom TTS voices** | Small local model | Character voice lines |
+| Chat — text | ✅ | ✅ local model | — voice lines only |
+| Chat — voice | ✅ full-duplex | — | — |
+| Interruptions | ✅ speak while it's speaking | — | — |
+| Memory | ✅ remembers past conversations | — | — |
+| Custom lore / world book | ✅ | — | — |
+| Voice | ✅ custom TTS voice per character | — | Fixed character voices |
 | Dances | Music reactivity + **VRMA import, any character** | Music-reactive (experimental) | — |
 | Stages / backgrounds | Image & video stages | — | — |
 | Library management | Workshop with 3D previews | Mod SDK | — |
 | Price | Free tier + **US$9.90 once** | Free (open source) | Free base + per-character DLC |
 | Open source | No (closed source; this repo = home & issues) | Yes (AGPL-3.0) | No |
 
-Each product is good at something: MateEngine is the one to pick if you want to read and mod the source; Desktop Mate is the one for officially licensed characters. AniMate Waifu is built for **your own characters with real conversation**. Full comparison: [AniMate Waifu vs Desktop Mate](https://getanimate.app/desktop-mate-alternative).
+### AI companion, in detail
+
+What "conversation" actually means here — this is the part a feature list usually flattens:
+
+- **Text and voice** — type or speak; answers come back in the character's own voice
+- **Full-duplex voice** — you can talk while the character is talking, instead of waiting for your turn
+- **Interruptions** — cut in naturally and it stops and reacts to what you just said, rather than finishing a scripted line
+- **Memory** — the character remembers what you've talked about, so a conversation continues where it left off instead of resetting every session
+- **Custom lore / world book** — attach your own setting, backstory and character knowledge so replies stay in character; this is the same "world book" format AI roleplay tools use
+- **Voice customization** — a TTS voice per character, so two characters never sound alike
+- **The body follows the reply** — lip movement, expressions and motion are driven by the conversation in real time, not by a separate looping animation
+
+Each product is good at something: MateEngine is the one to pick if you want to read and mod the source; Desktop Mate is the one for officially licensed characters; if you want a local LLM with screen vision, proactive chat and voice cloning, AI Desktop Pet goes deeper on AI than we do. AniMate Waifu is built for **your own characters with real conversation**. Full comparison: [AniMate Waifu vs Desktop Mate](https://getanimate.app/desktop-mate-alternative).
 
 ## Honest boundaries
 
 We'd rather lose the install than the review:
 
 - **No native PMX / FBX import** — convert to VRM first ([guide](https://getanimate.app/guides/import-vrm-model))
-- **No long-term memory yet** — relationship growth is on the roadmap, not shipped
-- **Chat needs internet** — there is no offline local LLM mode
+- **Chat needs internet** — there is no offline local LLM mode, and no screen vision or proactive messages
 - **A 3D model rendered all day costs GPU** — performance mode helps; actual numbers depend on your model and machine
 
 ## FAQ
@@ -159,6 +178,8 @@ We'd rather lose the install than the review:
 **Where do I get a model?** Make one in [VRoid Studio](https://vroid.com/studio) (free), or browse the [free model library](https://getanimate.app/models).
 
 **Does the AI chat send my data somewhere?** Chat is cloud-connected and needs internet; your chat history is stored locally on your device.
+
+**Does it remember past conversations?** Yes — memory keeps context across sessions, and you can attach a custom world book so the character's setting and backstory stay consistent.
 
 **What languages does the interface support?** English, 中文, 日本語, 한국어, Français, Deutsch, Español, Português — switchable any time.
 
