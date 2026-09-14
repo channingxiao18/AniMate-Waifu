@@ -1,13 +1,14 @@
-# 截图占位目录
+# Screenshots
 
-README 里尚未插图。待补清单（16:9，PNG）：
+Screenshots referenced by the README files live here.
 
-1. 角色站在真实桌面上，背后有打开的窗口（证明是桌面程序不是网页）
-2. 工坊界面：角色库 / 资产列表
-3. VRM 导入流程（核心差异点：导入"你自己的"模型）
-4. 舞蹈 + 舞台场景
-5. AI 对话界面
-6. 设置面板（性能模式 / chibi / click-through）
+Planned set (16:9, PNG):
 
-⚠️ 版权红线（与 AlternativeTo 提交同一规则）：截图里的角色只能用两个内置角色，
-或有明确授权可公开传播的 VRM。不要出现游戏 IP / 未授权模型。
+1. The character standing on a real desktop, with open windows behind it — proof it's a desktop app, not a web page
+2. The Workshop: character and asset library
+3. The VRM import flow — pick a file, preview, done
+4. A dance on a custom stage
+5. AI conversation in progress
+6. Settings: performance mode, chibi mode, click-through
+
+⚠️ **Model rights.** Screenshots may only use the two built-in characters, or VRM models whose license explicitly allows public redistribution. Do not use characters from games, anime, or other IP you don't hold the rights to.
