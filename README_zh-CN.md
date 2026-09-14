@@ -165,7 +165,6 @@ AniMate Waifu 把一个 3D 二次元角色放上你的 Windows 或 Mac 桌面—
 
 - **不支持 PMX / FBX 原生导入** —— 请先转换为 VRM（[教程](https://getanimate.app/guides/import-vrm-model)）
 - **对话需联网** —— 没有离线本地大模型模式，也没有屏幕视觉与主动搭话
-- **3D 模型全天渲染有性能成本** —— 实际数字取决于你的模型和硬件
 
 ## 常见问题
 

@@ -165,7 +165,6 @@ We'd rather lose the install than the review:
 
 - **No native PMX / FBX import** — convert to VRM first ([guide](https://getanimate.app/guides/import-vrm-model))
 - **Chat needs internet** — there is no offline local LLM mode, and no screen vision or proactive messages
-- **A 3D model rendered all day costs GPU** — actual numbers depend on your model and machine
 
 ## FAQ
 
